@@ -80,5 +80,5 @@ Passionate Full-Stack Developer experienced in building scalable Client-Server s
 
 ## 📬 Connect with Me
 
-* 📧 **Email:** <a href="mailto:%39%30%30%6c%65%61%68%40%67%6d%61%69%6c%2e%63%6f%6d">Click to Send Email</a>
+* 📧 **Email:** <a href="mailto:%38%30%30%6c%65%61%68%40%67%6d%61%69%6c%2e%63%6f%6d">Click to Send Email</a>
 * 💬 **Collaboration:** Feel free to explore my repositories or reach out to discuss innovative tech solutions!
