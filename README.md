@@ -1,7 +1,7 @@
 # Hi there, I'm Leah Abrahams 👋
 ### Full-Stack Developer | Software Engineering Practical Engineer
 
-Passionate Full-Stack Developer experienced in building scalable Client-Server systems, robust architecture, and clean code. Specialized in creating secure interfaces, working with diverse database technologies (SQL & NoSQL), and integrating AI capabilities. Highly capable of self-learning and rapidly adapting to new technologies.
+Passionate Full-Stack Developer with a powerful focus on Backend Architecture, scalable Client-Server systems, and clean code. Specialized in building secure APIs, optimizing complex database structures, and integrating advanced AI capabilities & automated workflows. Highly capable of self-learning and rapidly adapting to cutting-edge technologies.
 
 ---
 
