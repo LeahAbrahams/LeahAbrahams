@@ -78,4 +78,9 @@ Passionate Full-Stack Developer with a powerful focus on Backend Architecture, s
 
 ---
 
-* 💬 **Collaboration:** Feel free to explore my repositories or reach out to discuss innovative tech solutions!
+---
+
+## 📫 Connect with Me
+
+* 💼 **Professional Profile:** Find me and reach out directly via my [XPlace Profile](https://www.xplace.com/il/u/user1783418071419)
+* 💬 Feel free to explore my repositories or open a discussion if you would like to collaborate on innovative tech solutions!
