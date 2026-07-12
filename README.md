@@ -69,10 +69,10 @@ Passionate Full-Stack Developer with a powerful focus on Backend Architecture, s
 ---
 ## 🎓 Education & Excellence
 
-* **Temech, AI Leaders** | *AI Implementation & Optimization Specialist* | *2026*
-  * Specialized in advanced AI workflows, LLM integration, complex prompt engineering, and Vibe Coding.
-  * Designed and deployed automated AI agent architectures, API integrations, and cloud-based knowledge management.
-  * Developed a hands-on capstone project implementing an end-to-end AI solution for a real-world organization.
+* **Temech, AI Leaders** | *AI Implementation & Optimization Specialist* | *2026 (In Progress)*
+  * Focusing in advanced AI workflows, LLM integration, prompt engineering, and AI-assisted development (Vibe Coding).
+  * Hands-on experience with API integrations, knowledge management tools, and automated agent architectures.
+  * Practical curriculum including an upcoming capstone project focused on deploying AI solutions for real-world organizations.
 
 * **KamaTech, Full-Stack & AI Track** | *Technology Excellence Group* | *2024 - 2026*
   * an intensive, high-tier training program within an elite group of developers, in close collaboration with Israeli high-tech industry leaders.
