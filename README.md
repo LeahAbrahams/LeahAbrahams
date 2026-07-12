@@ -1,5 +1,5 @@
 # Hi there, I'm Leah Abrahams 👋
-### Full-Stack Developer | Software Engineering Practical Engineer
+### Software Engineering Practical Engineer | Full-Stack Developer | Backend-Focused | AI Implementation Specialist
 
 Passionate Full-Stack Developer with a powerful focus on Backend Architecture, scalable Client-Server systems, and clean code. Specialized in building secure APIs, optimizing complex database structures, and integrating advanced AI capabilities & automated workflows. Highly capable of self-learning and rapidly adapting to cutting-edge technologies.
 
@@ -67,15 +67,22 @@ Passionate Full-Stack Developer with a powerful focus on Backend Architecture, s
 * Features advanced game logic, complex application state management, and dynamic DOM manipulation.
 
 ---
-
 ## 🎓 Education & Excellence
 
-* **Software Engineering Practical Engineer (MAHAT Certification)** | *2024 - 2026*
-  * Graduated with absolute excellence – achieved a perfect score of **100** in all core practical projects.
-  * Advanced coursework: Algorithms, Data Structures, Digital Systems, Technical English, and Mathematics.
-* **KamaTech, AI Track** | *Technology Excellence Group*
-  * Selected for intensive training within an elite group of top developers, in collaboration with high-tech industry leaders.
+* **Temech, AI Leaders** | *AI Implementation & Optimization Specialist* | *2026*
+  * Specialized in advanced AI workflows, LLM integration, complex prompt engineering, and Vibe Coding.
+  * Designed and deployed automated AI agent architectures, API integrations, and cloud-based knowledge management.
+  * Developed a hands-on capstone project implementing an end-to-end AI solution for a real-world organization.
 
+* **KamaTech, Full-Stack & AI Track** | *Technology Excellence Group* | *2024 - 2026*
+  * an intensive, high-tier training program within an elite group of developers, in close collaboration with Israeli high-tech industry leaders.
+  * Deep dive into advanced Algorithms, Data Structures, Applied Mathematics, and modern AI-Assisted Development methodologies.
+    
+* **Software Engineering Practical Engineer (MAHAT Certification)** | *2024 - 2026*
+  * Achieving a general GPA of 95+ and a perfect score of 100 in all core development projects.
+  * Demonstrated strong performance in national MAHAT certification exams, scoring an average of 95.5 in key professional subjects.
+  * Focused on clean code, SOLID principles, design patterns, layered architecture, and end-to-end Full-Stack development.
+    
 ---
 
 ---
