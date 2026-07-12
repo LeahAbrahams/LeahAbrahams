@@ -31,6 +31,16 @@ Passionate Full-Stack Developer with a powerful focus on Backend Architecture, s
 * Developed a full-stack recruitment and candidate evaluation management platform featuring a product-oriented Freemium model.
 * Integrated **Gemini API** for dynamic assessments and implemented Role-Based Access Control (RBAC) for secure permissions management.
 
+### 🔹 [In-Memory Data Engine](https://github.com/LeahAbrahams/In-Memory-DataEngine-DesignPatterns)
+* **Tech Stack:** Java, OOP, GoF Design Patterns, Unit Testing
+* Designed and implemented a high-performance CRUD data engine strictly following SOLID principles and modular design.
+* Applied 7 structural and behavioral Design Patterns to maximize code maintainability and ensured full logical correctness via Unit Testing.
+
+### 🔹 [Edu Task Manager](https://github.com/LeahAbrahams/EduTask-Manager)
+* **Tech Stack:** Node.js, TypeScript, MongoDB, Mongoose
+* Secure RESTful API built with strict layered architecture and clear separation of concerns (Services/Controllers).
+* Implemented robust security mechanisms featuring JWT Authentication, Role-Based authorization, and Bcrypt encryption.
+
 ### 🔹 [Service Call Management System](https://github.com/LeahAbrahams/Service-Call-Management-System)
 * **Tech Stack:** C#, .NET Core, EF Core, Layered Architecture, AI Orchestration
 * Developed a complete Service Call system focusing on scalable logical design, database migrations, and automated backend orchestration.
@@ -42,29 +52,19 @@ Passionate Full-Stack Developer with a powerful focus on Backend Architecture, s
 * Implemented complex database schemas and multi-stage aggregations for real-time data retrieval.
 
 ### 🔹 [Train Logistics Engine](https://github.com/LeahAbrahams/TrainLogistics-SQL-Server)
-* **Tech Stack:** T-SQL, SQL Server, Relational Database Design
+* **Tech Stack:** SQL Server, Relational Database Design
 * Designed a comprehensive relational database for managing railway logistics, staff scheduling, and financial analytics.
 * Developed advanced Stored Procedures, automated Triggers, and optimized complex Views to maximize performance.
-
-### 🔹 [Edu Task Manager](https://github.com/LeahAbrahams/EduTask-Manager)
-* **Tech Stack:** Node.js, TypeScript, MongoDB, Mongoose
-* Secure RESTful API built with strict layered architecture and clear separation of concerns (Services/Controllers).
-* Implemented robust security mechanisms featuring JWT Authentication, Role-Based authorization, and Bcrypt encryption.
-
-### 🔹 [In-Memory Data Engine](https://github.com/LeahAbrahams/In-Memory-DataEngine-DesignPatterns)
-* **Tech Stack:** Java, OOP, GoF Design Patterns, Unit Testing
-* Designed and implemented a high-performance CRUD data engine strictly following SOLID principles and modular design.
-* Applied 7 structural and behavioral Design Patterns to maximize code maintainability and ensured full logical correctness via Unit Testing.
-
-### 🔹 [Shiduchim Matchmaking Platform](https://github.com/LeahAbrahams/Shiduchim-Matchmaking-Platform)
-* **Tech Stack:** HTML5, CSS3, Flexbox, CSS Grid, Responsive Design
-* Built a modern, fully responsive and pixel-perfect user interface for a matchmaking platform.
-* Focused extensively on seamless user experience (UX), mobile-first layouts, and clean CSS architecture.
 
 ### 🔹 [JS Memory Challenge](https://github.com/LeahAbrahams/JS-Memory-Challenge)
 * **Tech Stack:** Vanilla JavaScript, DOM Manipulation, CSS3
 * Developed an interactive and engaging Memory Game demonstrating core JavaScript programming concepts.
 * Features advanced game logic, complex application state management, and dynamic DOM manipulation.
+
+### 🔹 [Shiduchim Matchmaking Platform](https://github.com/LeahAbrahams/Shiduchim-Matchmaking-Platform)
+* **Tech Stack:** HTML5, CSS3, Flexbox, CSS Grid, Responsive Design
+* Built a modern, fully responsive and pixel-perfect user interface for a matchmaking platform.
+* Focused extensively on seamless user experience (UX), mobile-first layouts, and clean CSS architecture.
 
 ---
 ## 🎓 Education & Excellence
@@ -82,8 +82,6 @@ Passionate Full-Stack Developer with a powerful focus on Backend Architecture, s
   * Achieving a general GPA of 95+ and a perfect score of 100 in all core development projects.
   * Demonstrated strong performance in national MAHAT certification exams, scoring an average of 95.5 in key professional subjects.
   * Focused on clean code, SOLID principles, design patterns, layered architecture, and end-to-end Full-Stack development.
-    
----
 
 ---
 
